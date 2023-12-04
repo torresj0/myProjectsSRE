@@ -5,7 +5,8 @@ import (
 	"fmt"
 )
 
-func main (){
+// /
+func main() {
 	//criar hash
 	h := sha1.New()
 
