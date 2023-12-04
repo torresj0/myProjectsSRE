@@ -11,7 +11,7 @@ func main() {
 
 	//escrever dados no hash
 	h.Write([]byte("code with hash package"))
-	//
+	////
 	//calculate hash
 	v := h.Sum32()
 	fmt.Println(v)

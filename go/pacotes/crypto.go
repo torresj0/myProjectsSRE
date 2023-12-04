@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-// /
+// //
 func main() {
 	//criar hash
 	h := sha1.New()

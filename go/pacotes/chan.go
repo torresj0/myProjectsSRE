@@ -1,6 +1,6 @@
 package main
 
-//duas goroutines se comunicam e sincronizam sua execucao
+//duass goroutines se comunicam e sincronizam sua execucao
 import (
 	"fmt"
 	"time"

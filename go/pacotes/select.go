@@ -20,7 +20,7 @@ func main() {
 		time.Sleep(2 * time.Second)
 
 		c2 <- "dois"
-	}()
+	}() //
 
 	for i := 0; i < 2; i++ {
 		select {

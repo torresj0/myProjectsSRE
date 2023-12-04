@@ -1,5 +1,6 @@
 package main
 
+//s
 import (
 	"container/list"
 	"fmt"
